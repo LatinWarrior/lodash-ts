@@ -8,8 +8,8 @@ import * as _ from 'lodash';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'lodash-ts';
 
+  title = 'lodash-ts';
 
   readonly friends = [
     { id: 1, name: "Homer" },
